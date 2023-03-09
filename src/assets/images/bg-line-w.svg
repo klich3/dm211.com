@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1441px" height="443px" viewBox="0 0 1441 443" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  	<style type="text/css" >
+	<![CDATA[
+	.path {
+		stroke-dasharray: 25;
+		animation: line 5s linear infinite;
+	}
+	
+	@keyframes line {
+		50% {
+			d: path("M0.1,0.3 C44.4,36.2 207.85669,557.037091 597.959136,320.035265 C858.027432,162.034048 1138.74435,120.722293 1440.1099,196.1");
+		}
+	
+		100% {
+			d: path("M0.1,0.3 C44.4,36.2 233.822247,26.4802148 597.959136,320.035265 C840.717061,515.738632 1121.43398,474.426877 1440.1099,196.1");
+			stroke-dashoffset: 1000;
+		}
+	}
+    ]]>
+    </style>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg-line-w" transform="translate(0.000000, 1.000000)" stroke="#3E647D">
+            <path class="path" d="M0.1,0.3 C44.4,36.2 233.822247,26.4802148 597.959136,320.035265 C840.717061,515.738632 1121.43398,474.426877 1440.1099,196.1"></path>
+        </g>
+    </g>
+</svg>

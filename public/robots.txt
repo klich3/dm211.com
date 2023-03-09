@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Allow: /humans.txt
+Sitemap: https://dm211.com/sitemap.xml
