@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Digital Media 211 - dm211.com
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - email: anton@sychev.xyz
+    given-names: Anton
+    family-names: Sychev
+    affiliation: too
+repository-code: 'https://klich3@bitbucket.org/klich3/dm211.com.git'
+url: 'https://dm211.com'
+abstract: 'Website from 2016 - 2023, for educative propose.'
+keywords:
+  - vue2
+  - dm211
+  - html
+  - css3
+  - webpack
+license: MIT
+version: 4.0.49
+date-released: '2016-01-01'
